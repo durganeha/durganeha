@@ -8,7 +8,6 @@ I'm passionate about using data, AI, and web technologies to build impactful sol
 ## 💻 My Skills
 
 [![Languages](https://skillicons.dev/icons?i=py,html,css,js,php)](https://skillicons.dev)
-[![Database](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
 [![Tools](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
 
